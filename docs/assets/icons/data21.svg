@@ -11,11 +11,11 @@
    height="512"
    viewBox="0 0 512 512"
    version="1.1"
-   id="svg8"
-   sodipodi:docname="present.svg"
+   id="svg12"
+   sodipodi:docname="data.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata14">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,9 +36,9 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1080"
-     inkscape:window-height="1066"
-     id="namedview10"
+     inkscape:window-width="1306"
+     inkscape:window-height="1122"
+     id="namedview14"
      showgrid="false"
      inkscape:zoom="0.4609375"
      inkscape:cx="256"
@@ -46,20 +46,26 @@
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg12" />
   <title
      id="title2">ionicons-v5-l</title>
-  <polyline
-     points="352 176 217.6 336 160 272"
-     style="fill:none;stroke:#a0aec0;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;stroke-opacity:1"
-     id="polyline4" />
-  <rect
-     x="64"
-     y="64"
-     width="384"
-     height="384"
-     rx="48"
-     ry="48"
-     style="fill:none;stroke:#a0aec0;stroke-linejoin:round;stroke-width:32px;stroke-opacity:1"
-     id="rect6" />
+  <ellipse
+     cx="256"
+     cy="128"
+     rx="192"
+     ry="80"
+     style="fill:none;stroke:#a0aec0;stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px;stroke-opacity:1"
+     id="ellipse4" />
+  <path
+     d="M448,214c0,44.18-86,80-192,80S64,258.18,64,214"
+     style="fill:none;stroke:#a0aec0;stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px;stroke-opacity:1"
+     id="path6" />
+  <path
+     d="M448,300c0,44.18-86,80-192,80S64,344.18,64,300"
+     style="fill:none;stroke:#a0aec0;stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px;stroke-opacity:1"
+     id="path8" />
+  <path
+     d="M64,127.24V384.76C64,428.52,150,464,256,464s192-35.48,192-79.24V127.24"
+     style="fill:none;stroke:#a0aec0;stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px;stroke-opacity:1"
+     id="path10" />
 </svg>
