@@ -14,9 +14,9 @@
    id="svg873"
    sodipodi:docname="icon.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/sam/git/faff-web/src/favicon.png"
-   inkscape:export-xdpi="12.288"
-   inkscape:export-ydpi="12.288">
+   inkscape:export-filename="/home/sam/git/faff-web/src/assets/icons/icon-512x512-any.png"
+   inkscape:export-xdpi="98.304001"
+   inkscape:export-ydpi="98.304001">
   <metadata
      id="metadata879">
     <rdf:RDF>
@@ -40,15 +40,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1788"
+     inkscape:window-width="1930"
      inkscape:window-height="1090"
      id="namedview875"
      showgrid="false"
-     inkscape:zoom="1.169"
-     inkscape:cx="-7.6506658"
-     inkscape:cy="223.16959"
-     inkscape:window-x="909"
-     inkscape:window-y="227"
+     inkscape:zoom="0.82660783"
+     inkscape:cx="309.20575"
+     inkscape:cy="160.17772"
+     inkscape:window-x="634"
+     inkscape:window-y="148"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg873" />
   <flowRoot
@@ -62,16 +62,9 @@
          height="311.37726"
          x="-517.53638"
          y="142.42943" /></flowRegion><flowPara
-       id="flowPara908" /></flowRoot>  <rect
-     style="fill:#181817;fill-opacity:1;stroke:none;stroke-width:2.49993563;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect828"
-     width="132.29167"
-     height="132.29167"
-     x="0.32007986"
-     y="135.7153" />
-  <g
+       id="flowPara908" /></flowRoot>  <g
      id="g833"
-     transform="matrix(0.76844262,0,0,0.76844262,15.255294,15.316553)">
+     transform="matrix(0.81967212,0,0,0.81967212,11.862592,11.927935)">
     <g
        style="fill:#f56565;fill-opacity:1;stroke:#000000;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g871-0"
