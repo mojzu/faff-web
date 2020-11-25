@@ -1,8 +1,8 @@
 {
   "configVersion": 1,
-  "timestamp": 1606336419611,
+  "timestamp": 1606337139274,
   "appData": {
-    "version": "0.0.5"
+    "version": "0.0.6"
   },
   "index": "/index.html",
   "assetGroups": [
@@ -27,7 +27,7 @@
         "/browser-matrix.min.js",
         "/favicon.png",
         "/index.html",
-        "/main.73b228f1d399b3310a8a.js",
+        "/main.365dd7e7601dccdf7ff1.js",
         "/manifest.webmanifest",
         "/polyfills-css-shim.6e7675027d3b36a6fb19.js",
         "/polyfills-dom.4965060ab45807914c2b.js",
@@ -2711,8 +2711,8 @@
     "/assets/ionicons/svg/woman.svg": "a4b82189a3f08c84038a66dedaad32d3377cd4b9",
     "/browser-matrix.min.js": "03bd92eb99c4e71672b0b91988ec1fd3f97f492d",
     "/favicon.png": "e738ea0e3c7ab96f8caff6ebd04591569a9a79a0",
-    "/index.html": "5750de4bb95466b93cf1cb849cc23c7b791bb300",
-    "/main.73b228f1d399b3310a8a.js": "0a26b745d63a94d9fa1462076d1f9fc2d5a22920",
+    "/index.html": "0640c944227f6cae36228a3182c0d27ce869ebe4",
+    "/main.365dd7e7601dccdf7ff1.js": "a36152a42f7187f566729a2ea6d1251cc446022b",
     "/manifest.webmanifest": "5396fe7afe3645b22fe0f336509eadd9a3b8b090",
     "/polyfills-css-shim.6e7675027d3b36a6fb19.js": "0047940b4fab2e9323e5cd7ff1c0de32879969e7",
     "/polyfills-dom.4965060ab45807914c2b.js": "ee990b44d0d830bfa6a81afdd2b307525f07557a",
