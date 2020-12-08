@@ -1,8 +1,8 @@
 {
   "configVersion": 1,
-  "timestamp": 1606410145722,
+  "timestamp": 1607460769309,
   "appData": {
-    "version": "0.0.8"
+    "version": "0.0.9"
   },
   "index": "/index.html",
   "assetGroups": [
@@ -27,12 +27,13 @@
         "/browser-matrix.min.js",
         "/favicon.png",
         "/index.html",
-        "/main.ce3f32e5fc08edc854ec.js",
+        "/main.06dee50d7c065609db44.js",
         "/manifest.webmanifest",
         "/polyfills-css-shim.6e7675027d3b36a6fb19.js",
         "/polyfills-dom.4965060ab45807914c2b.js",
         "/polyfills.82902c053c411e14f56e.js",
         "/runtime.4709f429c46431d959bf.js",
+        "/sql-wasm.js",
         "/stencil-polyfills-css-shim.1a89fcbd3c9ce7819789.js",
         "/stencil-polyfills-dom.252568f55db080956086.js",
         "/styles.19d7352e2f77c0800e00.css"
@@ -2709,15 +2710,16 @@
     "/assets/ionicons/svg/woman-outline.svg": "d6b88b57cb6250adbdb74c41109069a4e870c067",
     "/assets/ionicons/svg/woman-sharp.svg": "fa1a17b955d81e3c65ce11f7c6dbecd9abb45bc3",
     "/assets/ionicons/svg/woman.svg": "a4b82189a3f08c84038a66dedaad32d3377cd4b9",
-    "/browser-matrix.min.js": "03bd92eb99c4e71672b0b91988ec1fd3f97f492d",
+    "/browser-matrix.min.js": "70eb0b96ad073628fd53c5d9a54785ad4a384d0d",
     "/favicon.png": "e738ea0e3c7ab96f8caff6ebd04591569a9a79a0",
-    "/index.html": "b8a180772e2a5a96013a5e7877ecda0f70590839",
-    "/main.ce3f32e5fc08edc854ec.js": "087865ea9c0ef9ae77f0e357e62397a8afe7754b",
+    "/index.html": "37aa827e99b352fa6f6bc849572342be4d887978",
+    "/main.06dee50d7c065609db44.js": "b92ea2415c3974a1a45fbc66fbe31c9410cb4a0a",
     "/manifest.webmanifest": "5396fe7afe3645b22fe0f336509eadd9a3b8b090",
     "/polyfills-css-shim.6e7675027d3b36a6fb19.js": "0047940b4fab2e9323e5cd7ff1c0de32879969e7",
     "/polyfills-dom.4965060ab45807914c2b.js": "ee990b44d0d830bfa6a81afdd2b307525f07557a",
     "/polyfills.82902c053c411e14f56e.js": "0b78dbfee6399e8aabc2f8356ac77d713043b964",
     "/runtime.4709f429c46431d959bf.js": "db0341b84e4623091c98c3c4717ffe12f906da4c",
+    "/sql-wasm.js": "a45305feeb51fb0b33327a72dff41fb1ded48a86",
     "/stencil-polyfills-css-shim.1a89fcbd3c9ce7819789.js": "345860c0fc5db46433e5d6982395a3b7e352ec02",
     "/stencil-polyfills-dom.252568f55db080956086.js": "5d74a8a71afc416b1692e71d97de03e65a9f3c0f",
     "/styles.19d7352e2f77c0800e00.css": "b6e521f0d17d2a06bed6f9a8ad3a7f93d9cde45c"
